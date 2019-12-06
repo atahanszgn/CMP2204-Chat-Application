@@ -1,1 +1,1 @@
-# CMP2204-Chat-Application
+# CMP2204 - Chat Application
